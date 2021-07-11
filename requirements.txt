@@ -1,0 +1,9 @@
+chess>=1.6.1
+matplotlib>=3.4.2
+pandas>=1.2.4
+click>=8.0.1
+mechanize>=0.4.5
+beautifulsoup4>=4.9.3
+Flask>=2.0.0
+flask[async]>=2.0.0
+waitress>=2.0.0
